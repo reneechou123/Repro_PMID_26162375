@@ -10,6 +10,11 @@ Reproducing Drosophila anti-nematode and antibacterial immune regulators reveale
      
 4. download install bioconda 
     install bowtie, tophat, samtools, htseq, cufflinks, R, python, DESeq 
+       command line:
+          conda install htseq
+          conda install cufflinks
+          conda install r
+          conda install bioconductor-deseq
 5. download genome gtf file and fasta file
 
 
